@@ -1,6 +1,6 @@
 package telran.enpl.dao;
 
-import telran.enpl.entity.Employee;
+import telran.enpl.entity.Employee;	//first commit
 
 public class Company {
 	

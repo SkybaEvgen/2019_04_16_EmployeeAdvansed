@@ -42,6 +42,7 @@ public class EmployeeApp {
 		System.out.println("~~~~~~~~~~~~~~~~~~2~~~~~~~~~~~~~~~~~~~~~");
 		System.out.println(c1.poorMens(3));
 		c1.display(c1.poorMens(4));
+		System.out.println("qqq");
 	}
 
 }
